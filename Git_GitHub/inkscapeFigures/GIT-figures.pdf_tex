@@ -1,0 +1,87 @@
+%% Creator: Inkscape 1.1.2 (08b2f3d93c, 2022-04-05), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'GIT-figures.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{611.9999827bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.29411766)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.24481069,1.25741881){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\huge{GIT AND GITHUB CHEAT SHEET}\end{tabular}}}}%
+    \put(0.03099639,1.20015898){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SETUP\end{tabular}}}}%
+    \put(0.02302741,0.04722578){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Created by: Juan José Sepúlveda García\\Updated on: May 10, 2022\end{tabular}}}}%
+    \put(0.03354583,1.14030625){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --global user.name “[firstname lastname]”\end{tabular}}}}%
+    \put(0.03213732,1.10439346){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --global user.email “[valid-email]"\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{GIT-figures.pdf}}%
+    \put(0.03192728,1.07014303){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config user.name\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{GIT-figures.pdf}}%
+    \put(0.03058167,1.03176074){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config user.email\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{GIT-figures.pdf}}%
+    \put(0.03100779,0.99834634){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --list\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{GIT-figures.pdf}}%
+    \put(0.03378703,0.96611093){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git init\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{GIT-figures.pdf}}%
+    \put(0.03163229,0.93460612){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git clone URL\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{GIT-figures.pdf}}%
+    \put(0.0301153,0.89992015){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git status\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{GIT-figures.pdf}}%
+    \put(0.02738005,0.86278334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git log\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{GIT-figures.pdf}}%
+    \put(0.0316398,0.82983626){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git add [file]\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{GIT-figures.pdf}}%
+    \put(0.167105,0.830846){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git add .\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{GIT-figures.pdf}}%
+    \put(0.12892772,0.86302759){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git log --oneline\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{GIT-figures.pdf}}%
+    \put(0.02724945,0.79515436){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git commit\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{GIT-figures.pdf}}%
+    \put(0.16271465,0.79616409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git commit -m "[description]"\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{GIT-figures.pdf}}%
+  \end{picture}%
+\endgroup%

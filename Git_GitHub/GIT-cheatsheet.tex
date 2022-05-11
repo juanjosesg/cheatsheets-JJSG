@@ -1,0 +1,26 @@
+\documentclass[letterpaper]{article}
+
+
+\renewcommand{\familydefault}{\sfdefault}
+
+ \usepackage[lmargin=5mm, rmargin=5mm, tmargin=5mm, bmargin=5mm]{geometry}
+%  \usepackage{showframe}
+
+% ------------------ Packages for including inkscape figures ------------------
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+
+
+\begin{document}
+\pagestyle{empty}
+\noindent
+
+\begin{figure}[ht]
+\centering
+\def\svgwidth{\columnwidth}
+\import{./inkscapeFigures/}{GIT-figures.pdf_tex}%{#1.pdf_tex}
+\end{figure}
+
+\end{document}
