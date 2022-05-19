@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.77593294"
-     inkscape:cx="498.11006"
-     inkscape:cy="374.38802"
+     inkscape:zoom="1.0973349"
+     inkscape:cx="-1.3669482"
+     inkscape:cy="265.64361"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -34,7 +34,9 @@
      inkscape:current-layer="layer1"
      units="mm"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     width="215.89999mm"
+     height="279.39999mm">
     <sodipodi:guide
        position="107.95,237.44608"
        orientation="-1,0"
@@ -42,42 +44,126 @@
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.0000002,206.58343"
+       orientation="-1,0"
+       id="guide3304"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="18.204974"
+       x="18.204973"
        y="14.155431"
-       width="428.54508"
-       height="30.941143"
+       width="640.37934"
+       height="28.55855"
        id="rect2759" />
     <rect
        x="18.204973"
        y="14.155431"
-       width="80.907852"
-       height="25.600174"
+       width="184.46465"
+       height="31.267759"
        id="rect2759-1" />
+    <rect
+       x="18.204973"
+       y="14.155431"
+       width="320.10254"
+       height="27.286917"
+       id="rect2759-1-3" />
+    <rect
+       x="18.204973"
+       y="14.155431"
+       width="320.10254"
+       height="27.286917"
+       id="rect2759-1-3-5" />
+    <rect
+       x="18.204973"
+       y="14.155431"
+       width="320.10254"
+       height="27.286917"
+       id="rect2759-1-3-5-2" />
+    <rect
+       x="18.204973"
+       y="14.155431"
+       width="320.10254"
+       height="27.286917"
+       id="rect2759-1-3-5-2-2" />
+    <rect
+       x="18.204973"
+       y="14.155431"
+       width="320.10254"
+       height="27.286917"
+       id="rect2759-1-3-5-2-2-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       id="rect72780"
+       width="215.89999"
+       height="279.39999"
+       x="2.7755576e-17"
+       y="0"
+       style="stroke-width:0.352114;fill:#000000;fill-opacity:0.15165325" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,48.037866,-0.81622961)"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,-1.4510622)"
        id="text2757"
        style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="18.205078"
          y="33.03122"
-         id="tspan104838">\huge{GIT AND GITHUB CHEAT SHEET}</tspan></text>
+         id="tspan341781">\huge{\textbf{GIT AND GITHUB CHEAT SHEET}}</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.8753601,11.546168)"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,5.6812295)"
        id="text2757-2"
-       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="18.205078"
-         y="33.03122"
-         id="tspan104840">SETUP</tspan></text>
+         y="29.492158"
+         id="tspan341783">\large{SETUP}</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,45.681229)"
+       id="text2757-2-7"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="18.205078"
+         y="29.492158"
+         id="tspan341785">\large{START A PROJECT}</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,69.681229)"
+       id="text2757-2-7-9"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1-3-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="18.205078"
+         y="29.492158"
+         id="tspan341787">\large{COMMITS}</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,109.68127)"
+       id="text2757-2-7-9-2"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1-3-5-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="18.205078"
+         y="29.492158"
+         id="tspan341789">\large{BRANCHES}</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,139.68127)"
+       id="text2757-2-7-9-2-9"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1-3-5-2-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="18.205078"
+         y="29.492158"
+         id="tspan341791">\large{MERGING}</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.81676019,169.68127)"
+       id="text2757-2-7-9-2-9-5"
+       style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2759-1-3-5-2-2-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="18.205078"
+         y="29.492158"
+         id="tspan341793">\large{UNDOING THINGS}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -93,244 +179,378 @@
          style="font-size:3.52778px;stroke-width:0.264583"
          x="4.9716177"
          y="273.61368"
-         id="tspan30187">Updated on: May 10, 2022</tspan></text>
+         id="tspan30187">Updated on: May 18, 2022</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="7.2425447"
-       y="33.207882"
+       x="9"
+       y="22.680286"
        id="text34970"><tspan
          sodipodi:role="line"
          id="tspan34968"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="7.2425447"
-         y="33.207882">git config --global user.name “[firstname lastname]”</tspan></text>
+         x="9"
+         y="22.680286" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.9384475"
-       y="40.961452"
+       x="7"
+       y="18.680286"
+       id="text34970-0"><tspan
+         sodipodi:role="line"
+         id="tspan34968-3"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7"
+         y="18.680286">\small{Set username: \textit{\$ git config --global user.name “[firstname lastname]”}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7"
+       y="38.680286"
+       id="text34970-8"><tspan
+         sodipodi:role="line"
+         id="tspan34968-9"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7"
+         y="38.680286">\small{Set Vim editor: \textit{\$ git config --global core.editor &quot;vim&quot;}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7"
+       y="42.680286"
+       id="text34970-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan34968-9-3"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7"
+         y="42.680286">\small{Set Nano editor: \textit{\$ git config --global core.editor &quot;nano&quot;}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7"
+       y="22.680286"
        id="text34970-3"><tspan
          sodipodi:role="line"
          id="tspan34968-6"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.9384475"
-         y="40.961452">git config --global user.email “[valid-email]&quot;</tspan></text>
-    <circle
-       id="path44065"
-       cx="4.0001454"
-       cy="32.615891"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
-    <circle
-       id="path44065-7"
-       cx="3.9310794"
-       cy="39.98214"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7"
+         y="22.680286">\small{Set user email: \textit{\$ git config --global user.email “[valid-email]&quot;}}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.8931003"
-       y="48.356121"
+       x="7"
+       y="26.680286"
        id="text34970-3-5"><tspan
          sodipodi:role="line"
          id="tspan34968-6-3"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.8931003"
-         y="48.356121">git config user.name</tspan></text>
-    <circle
-       id="path44065-7-5"
-       cx="3.8857319"
-       cy="47.376804"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7"
+         y="26.680286">\small{View username: \textit{\$ git config user.name}}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.6025825"
-       y="56.642857"
+       x="7"
+       y="30.680286"
        id="text34970-3-6"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.6025825"
-         y="56.642857">git config user.email</tspan></text>
-    <circle
-       id="path44065-7-9"
-       cx="3.5952141"
-       cy="55.663548"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7"
+         y="30.680286">\small{View user email: \textit{\$ git config user.email}}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.694582"
-       y="63.857025"
+       x="7"
+       y="34.680286"
        id="text34970-3-6-7"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.694582"
-         y="63.857025">git config --list</tspan></text>
-    <circle
-       id="path44065-7-9-9"
-       cx="3.6872139"
-       cy="62.877716"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7"
+         y="34.680286">\small{View all settings: \textit{\$ git config --list}}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="7.2946186"
-       y="70.81665"
+       x="7.0009489"
+       y="58.68029"
        id="text34970-3-6-7-3"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="7.2946186"
-         y="70.81665">git init</tspan></text>
-    <circle
-       id="path44065-7-9-9-0"
-       cx="4.2872486"
-       cy="69.837341"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="58.68029">\small{\$ git init}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.829412"
-       y="77.618538"
+       x="7.0009489"
+       y="62.680286"
        id="text34970-3-6-7-3-6"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.829412"
-         y="77.618538">git clone URL</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6"
-       cx="3.8220422"
-       cy="76.639229"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="62.680286">\small{\$ git clone URL}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.5018921"
-       y="85.107239"
+       x="7.0009489"
+       y="82.680283"
        id="text34970-3-6-7-3-6-1"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.5018921"
-         y="85.107239">git status</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7"
-       cx="3.4945211"
-       cy="84.12793"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="82.680283">\small{\$ git status}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="5.9113522"
-       y="93.125076"
+       x="7.0009489"
+       y="94.680283"
        id="text34970-3-6-7-3-6-1-9"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="5.9113522"
-         y="93.125076">git log</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0"
-       cx="2.903981"
-       cy="92.145767"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="94.680283">\small{\$ git log}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.8310318"
-       y="100.23835"
+       x="7.0009489"
+       y="86.680283"
        id="text34970-3-6-7-3-6-1-9-5"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2-9"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="6.8310318"
-         y="100.23835">git add [file]</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0-2"
-       cx="3.8236609"
-       cy="99.259041"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="86.680283">\small{\$ git add [file]}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="36.077969"
-       y="100.02035"
+       x="63.000393"
+       y="86.680283"
        id="text34970-3-6-7-3-6-1-9-5-2"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2-9-8"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="36.077969"
-         y="100.02035">git add .</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0-2-9"
-       cx="33.070595"
-       cy="99.041054"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="63.000393"
+         y="86.680283">\small{\$ git add .}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="27.835495"
-       y="93.072342"
+       x="63.000393"
+       y="94.680283"
        id="text34970-3-6-7-3-6-1-9-2"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2-3"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="27.835495"
-         y="93.072342">git log --oneline</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0-7"
-       cx="24.828123"
-       cy="92.093033"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="63.000393"
+         y="94.680283">\small{\$ git log --oneline}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="5.8831558"
-       y="107.72617"
+       x="7.0009489"
+       y="90.680283"
        id="text34970-3-6-7-3-6-1-9-5-7"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2-9-3"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="5.8831558"
-         y="107.72617">git commit</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0-2-6"
-       cx="2.8757849"
-       cy="106.74686"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="7.0009489"
+         y="90.680283">\small{\$ git commit}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="35.130093"
-       y="107.50817"
+       x="63.000393"
+       y="90.680283"
        id="text34970-3-6-7-3-6-1-9-5-2-1"><tspan
          sodipodi:role="line"
          id="tspan34968-6-2-0-6-2-8-2-9-8-2"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="35.130093"
-         y="107.50817">git commit -m &quot;[description]&quot;</tspan></text>
-    <circle
-       id="path44065-7-9-9-0-6-7-0-2-9-9"
-       cx="32.122719"
-       cy="106.52888"
-       r="0.65601748"
-       style="stroke-width:0.264583" />
+         x="63.000393"
+         y="90.680283">\small{\$ git commit -m &quot;[description]&quot;}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.165041"
+       y="195.6089"
+       id="text34970-3-6-7-3-6-1-9-5-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="31.165041"
+         y="195.6089">\$ git  reset --hard [commit code]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="152.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="152.68018">\small{\$ git checkout branchB}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="156.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-1-4"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="156.68018">\small{\$ git merge branchA \textit{(merge branchA into branchB)}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="160.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-3-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="160.68018"
+         id="tspan231735">\small{\$ git merge --squash branchA}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.0009184"
+       y="164.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-2"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="9.0009184"
+         y="164.68018">\small{\textit{(merge and squash all commits of branchA into branchB)}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="126.68025"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-9"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="126.68025">\small{\$ git branch &quot;[brach name]&quot;} \textit{(create a new branch)}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="130.68019"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-9-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="130.68019">\small{\$ git checkout -b &quot;[brach name]&quot;} \textit{(create a new branch and switch to it)}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="108.03529"
+       y="215.27129"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-0"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="108.03529"
+         y="215.27129">\$ git pull</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="122.68024"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-6"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="122.68024">\small{\$ git branch} \textit{(list all branches)}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="134.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-6-0"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="134.68018">\small{\$ git branch -d [branch name]} \textit{(delete a branch)}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="138.68018"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2-6-7"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="138.68018">\small{\$ git checkout [branch name]} \textit{(switching between branches)}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0009489"
+       y="98.680313"
+       id="text34970-3-6-7-3-6-1-9-5-7-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan34968-6-2-0-6-2-8-2-9-3-6-2"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="7.0009489"
+         y="98.680313">\small{\$ git  commit --amend} \textit{(modify last commit)}</tspan></text>
+    <path
+       style="fill:none;stroke:#2848ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.53, 0.265;stroke-dashoffset:0"
+       d="M 107.94999,279.74607 V 10.296018"
+       id="path136237" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854"
+       cx="4.7500005"
+       cy="17.750702"
+       rx="0.68860275"
+       ry="0.68930364" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2"
+       cx="4.75"
+       cy="21.7507"
+       rx="0.68860239"
+       ry="0.68930328" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2-0"
+       cx="4.75"
+       cy="25.7507"
+       rx="0.68860239"
+       ry="0.68930328" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2-6"
+       cx="4.75"
+       cy="29.7507"
+       rx="0.68860239"
+       ry="0.68930328" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2-1"
+       cx="4.75"
+       cy="33.750702"
+       rx="0.68860239"
+       ry="0.68930328" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2-5"
+       cx="4.75"
+       cy="37.750702"
+       rx="0.68860239"
+       ry="0.68930328" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path251854-2-5-5"
+       cx="4.75"
+       cy="41.750702"
+       rx="0.68860239"
+       ry="0.68930328" />
   </g>
 </svg>

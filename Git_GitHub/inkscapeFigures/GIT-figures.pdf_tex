@@ -53,35 +53,43 @@
   \begin{picture}(1,1.29411766)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.24481069,1.25741881){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\huge{GIT AND GITHUB CHEAT SHEET}\end{tabular}}}}%
-    \put(0.03099639,1.20015898){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SETUP\end{tabular}}}}%
-    \put(0.02302741,0.04722578){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Created by: Juan José Sepúlveda García\\Updated on: May 10, 2022\end{tabular}}}}%
-    \put(0.03354583,1.14030625){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --global user.name “[firstname lastname]”\end{tabular}}}}%
-    \put(0.03213732,1.10439346){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --global user.email “[valid-email]"\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{GIT-figures.pdf}}%
-    \put(0.03192728,1.07014303){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config user.name\end{tabular}}}}%
+    \put(0.0185271,1.26035921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\huge{\textbf{GIT AND GITHUB CHEAT SHEET}}\end{tabular}}}}%
+    \put(0.0185271,1.23166113){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{SETUP}\end{tabular}}}}%
+    \put(0.0185271,1.04639017){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{START A PROJECT}\end{tabular}}}}%
+    \put(0.0185271,0.93522759){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{COMMITS}\end{tabular}}}}%
+    \put(0.0185271,0.74995644){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{BRANCHES}\end{tabular}}}}%
+    \put(0.0185271,0.61100322){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{MERGING}\end{tabular}}}}%
+    \put(0.0185271,0.47204999){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\large{UNDOING THINGS}\end{tabular}}}}%
+    \put(0.02302741,0.04722578){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Created by: Juan José Sepúlveda García\\Updated on: May 18, 2022\end{tabular}}}}%
+    \put(0.03242242,1.20759479){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{Set username: \textit{\$ git config --global user.name “[firstname lastname]”}}\end{tabular}}}}%
+    \put(0.03242242,1.11495931){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{Set Vim editor: \textit{\$ git config --global core.editor "vim"}}\end{tabular}}}}%
+    \put(0.03242242,1.09643221){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{Set Nano editor: \textit{\$ git config --global core.editor "nano"}}\end{tabular}}}}%
+    \put(0.03242242,1.18906769){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{Set user email: \textit{\$ git config --global user.email “[valid-email]"}}\end{tabular}}}}%
+    \put(0.03242242,1.1705406){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{View username: \textit{\$ git config user.name}}\end{tabular}}}}%
+    \put(0.03242242,1.1520135){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{View user email: \textit{\$ git config user.email}}\end{tabular}}}}%
+    \put(0.03242242,1.1334864){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{View all settings: \textit{\$ git config --list}}\end{tabular}}}}%
+    \put(0.03242681,1.02232381){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git init}\end{tabular}}}}%
+    \put(0.03242681,1.00379673){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git clone URL}\end{tabular}}}}%
+    \put(0.03242681,0.91116126){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git status}\end{tabular}}}}%
+    \put(0.03242681,0.85557997){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git log}\end{tabular}}}}%
+    \put(0.03242681,0.89263417){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git add [file]}\end{tabular}}}}%
+    \put(0.29180359,0.89263417){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git add .}\end{tabular}}}}%
+    \put(0.29180359,0.85557997){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git log --oneline}\end{tabular}}}}%
+    \put(0.03242681,0.87410707){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git commit}\end{tabular}}}}%
+    \put(0.29180359,0.87410707){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git commit -m "[description]"}\end{tabular}}}}%
+    \put(0.14434943,0.38810141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\$ git  reset --hard [commit code]\end{tabular}}}}%
+    \put(0.03242681,0.58693757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git checkout branchB}\end{tabular}}}}%
+    \put(0.03242681,0.56841048){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git merge branchA \textit{(merge branchA into branchB)}}\end{tabular}}}}%
+    \put(0.03242681,0.54988338){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git merge --squash branchA}\end{tabular}}}}%
+    \put(0.04169022,0.53135628){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\textit{(merge and squash all commits of branchA into branchB)}}\end{tabular}}}}%
+    \put(0.03242681,0.70736334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git branch "[brach name]"} \textit{(create a new branch)}\end{tabular}}}}%
+    \put(0.03242681,0.68883653){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git checkout -b "[brach name]"} \textit{(create a new branch and switch to it)}\end{tabular}}}}%
+    \put(0.50039507,0.29702969){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\$ git pull\end{tabular}}}}%
+    \put(0.03242681,0.72589051){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git branch} \textit{(list all branches)}\end{tabular}}}}%
+    \put(0.03242681,0.67030951){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git branch -d [branch name]} \textit{(delete a branch)}\end{tabular}}}}%
+    \put(0.03242681,0.65178241){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git checkout [branch name]} \textit{(switching between branches)}\end{tabular}}}}%
+    \put(0.03242681,0.83705274){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\small{\$ git  commit --amend} \textit{(modify last commit)}\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{GIT-figures.pdf}}%
-    \put(0.03058167,1.03176074){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config user.email\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=3]{GIT-figures.pdf}}%
-    \put(0.03100779,0.99834634){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git config --list\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=4]{GIT-figures.pdf}}%
-    \put(0.03378703,0.96611093){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git init\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=5]{GIT-figures.pdf}}%
-    \put(0.03163229,0.93460612){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git clone URL\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=6]{GIT-figures.pdf}}%
-    \put(0.0301153,0.89992015){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git status\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=7]{GIT-figures.pdf}}%
-    \put(0.02738005,0.86278334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git log\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=8]{GIT-figures.pdf}}%
-    \put(0.0316398,0.82983626){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git add [file]\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=9]{GIT-figures.pdf}}%
-    \put(0.167105,0.830846){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git add .\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=10]{GIT-figures.pdf}}%
-    \put(0.12892772,0.86302759){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git log --oneline\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=11]{GIT-figures.pdf}}%
-    \put(0.02724945,0.79515436){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git commit\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=12]{GIT-figures.pdf}}%
-    \put(0.16271465,0.79616409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}git commit -m "[description]"\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=13]{GIT-figures.pdf}}%
   \end{picture}%
 \endgroup%
